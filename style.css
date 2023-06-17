@@ -20,10 +20,10 @@ position: relative;
 .nav-items{
 text-decoration: none;
 color: white;
-font-size: 18px;
+font-size: 16px;
 font-family: 'Montserrat', sans-serif;
 font-weight: 700;
-padding-right: 35px;
+padding-right: 20px;
 transition-duration: 600ms;
 transition-timing-function: ease;
 
@@ -32,7 +32,7 @@ transition-timing-function: ease;
     margin-right: 25px;
 }
 .burger img{
-    width: 35px;
+    width: 30px;
   
 }
 .burger{
@@ -51,16 +51,16 @@ position: relative;
 font-family: 'Montserrat';
 font-style: normal;
 font-weight: 700;
-font-size: 60px;
+font-size: 55px;
 margin-right: 1000px;
-margin-top: 125px;
+margin-top: 110px;
 color: white;
 }
 .subtitle{
 font-family: 'Montserrat';
 font-style: normal;
 font-weight: 700;
-font-size: 18px;
+font-size: 16px;
 margin-top: 10px;
 margin-right: 680px;
 color: white;
@@ -93,7 +93,7 @@ color: black;
 font-weight: 600px;
 }
 .img img{
-    width: 553px;
+    width: 487px;
 }
 
 .img{
